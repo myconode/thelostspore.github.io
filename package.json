@@ -1,0 +1,16 @@
+{
+  "name": "thelostspore.github.io",
+  "version": "0.1.0",
+  "description": "thelostspore.github.io",
+  "scripts": {
+    "start": "./node_modules/http-server/bin/http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelostspore/thelostspore.github.io.git"
+  },
+  "private": true,
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
